@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">program3</string>
+    <string name="main_title">Home</string>
+    <string name="action_settings">Settings</string>
+	<string name="menu_title_gallery">Pictures</string>
+	<string name="menu_title_music">Music</string>
+	<string name="menu_title_camera">Gallery</string>
+	<string name="image1">Thumbnail image 1</string>
+	<string name="music_songtitle"><b>Song Title Here</b></string>
+	<string name="music_labelrepeat"><b>REPEAT</b></string>
+	<string name="music_labelshuffle"><b>SHUFFLE</b></string>
+	<string name="music_backbtn">Do you want to keep the music playing?</string>
+	<string name="music_backyes">Yes</string>
+	<string name="music_backno">No</string>
+	<string name="music_backcancel">Cancel</string>
+	<string-array name="music_genre">
+	    <item>Classic</item>
+	    <item>Rock</item>
+	    <item>Jazz</item>
+	    <item>RnB</item>
+	    <item>Metal</item>
+	    <item>Pop</item>
+	</string-array>
+	
+</resources>

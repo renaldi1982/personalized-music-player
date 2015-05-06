@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_title">#0962BA</color>
+    <color name="music_player">#96ABB0</color>
+    <color name="playlist_divider">#242424</color>
+    <color name="playlist_item">#090A0A</color>
+    <color name="main_line">#14171A</color>
+    <color name="blue">#00abea</color>
+    <color name="white">#ffffff</color>
+</resources>

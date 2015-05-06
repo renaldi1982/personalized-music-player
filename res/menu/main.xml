@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"    
+    tools:context="edu.uco.rnolastname.program4.MainActivity" >
+	
+    <item 
+        android:id="@+id/item_gallery"                
+        android:title="@string/menu_title_gallery"
+        android:icon="@drawable/ic_menu_title_gallery"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item_camera"
+        android:title="@string/menu_title_camera"
+        android:icon="@drawable/ic_menu_title_camera"
+        android:showAsAction="ifRoom"/>
+    <item 
+        android:id="@+id/item_music"
+        android:title="@string/menu_title_music"
+        android:icon="@drawable/ic_menu_title_music"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
